@@ -1,8 +1,9 @@
 # The Book of Tor
 
-For Larisa, my angel
+For Larisa, my wife and my angel
 
 The Dark Web is a scary place. – The Internet
+
 No it isn't. – Me
 
 ## Introduction
