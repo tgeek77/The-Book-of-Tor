@@ -1,4 +1,9 @@
 # Chapter 1: The Tor Browser
+
+## What is the Tor Browser?
+
+
+
 ## Anonymity is Important
 
 Let's begin with something useful.
@@ -47,7 +52,7 @@ We'll do this in four parts for Windows, Linux, Mac, and Android users.
 
 6. Congrats, you are on Tor!
 
-7. Go to https://www.facebookcorewwwi.onion/ in the Tor Browser
+7. Go to https://check.torproject.org/ in the Tor Browser
 
 #### Linux
 
@@ -73,7 +78,7 @@ We'll do this in four parts for Windows, Linux, Mac, and Android users.
 
 8. Congrats, you are on Tor!
 
-9. Go to https://www.facebookcorewwwi.onion/ in the Tor Browser
+9. Go to https://check.torproject.org/ in the Tor Browser
 
 #### Mac
 
@@ -89,7 +94,7 @@ We'll do this in four parts for Windows, Linux, Mac, and Android users.
 
 6. Congrats, you are on Tor!
 
-7. Go to https://www.facebookcorewwwi.onion/ in the Tor Browser
+7. Go to https://check.torproject.org/ in the Tor Browser
 
 #### Android
 
@@ -100,7 +105,7 @@ We'll do this in four parts for Windows, Linux, Mac, and Android users.
 
 3. Start Orfox
 
-4. Go to https://www.facebookcorewwwi.onion/ in Orfox.
+4. Go to https://check.torproject.org/ in Orfox.
 
 
 
