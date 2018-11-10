@@ -1,5 +1,5 @@
-# Chapter 1 
-## Begin at the Beginning
+# Chapter 1: The Tor Browser
+## Anonymity is Important
 
 Let's begin with something useful.
 
@@ -25,14 +25,13 @@ The second entry is normal unmodified Firefox running on Tor. This is a little b
 
 I didn't change to a Windows PC to test the Tor Browser, all versions will always report the same information. It will always report that it is being used in Window since it is the most widely used operating system. It's important to keep it up to date not only to apply bugfixes but to keep in line with all of the rest of the Tor Browser users.
 
-The final entry is for Orfox. Yes, you can see that I am running it on Android as it is based on the Firefox app for Android. This is a bit of a negative. Preferably you would want it to base it on
+The final entry is for Orfox. Yes, you can see that I am running it on Android as it is based on the Firefox app for Android. This is a bit of a negative. Preferably you would want it to appear to be the same as the normal Tor browser but there is probably a trade off.  All copies of Orfox, no matter the device or version of Android, should look the same. However in order to get mobile versions of websites suitable for a mobile device, the browser needs to identify itself as a mobile browser. We'll discuss more about fingerprinting in a later chapter.
 
 =======
-## Begin at the Beginning
+
+## Installing The Tor Browser
 
 We'll do this in four parts for Windows, Linux, Mac, and Android users.
-
-### Installing The Tor Browser
 
 #### Windows
 
