@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chapter 1
 ## Begin at the Beginning
 
@@ -27,6 +28,9 @@ I didn't change to a Windows PC to test the Tor Browser, all versions will alway
 
 The final entry is for Orfox. Yes, you can see that I am running it on Android as it is based on the Firefox app for Android. This is a bit of a negative. Preferably you would want it to base it on 
 
+=======
+## Begin at the Beginning
+>>>>>>> c4d5e792a2736dc6d6b77c51217bf80dc346348e
 
 We'll do this in four parts for Windows, Linux, Mac, and Android users.
 
